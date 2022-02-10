@@ -1,0 +1,186 @@
+.h1{
+    font-family: "adobe-clean", sans-serif;
+    text-align: center;
+    font-weight: bold;
+    padding-top: 25px;
+    font-size: 48px;
+}
+.hr1{
+    width: 110px;
+    position: relative;
+    left: -215px;
+    bottom: 30px;
+}
+.hr2{
+    width: 110px;
+    position: relative;
+    right: -215px;
+    bottom: 40.2px;
+}
+.h2{
+    font-family: "adobe-clean", sans-serif;
+    text-align: center;
+    color: slategrey;
+    font-size: 32px;
+    position: relative;
+    left: 50px;
+}
+#btnBack{
+    background-color: white;
+    color: rgb(248, 112, 112);;
+    font-size: 48px;
+    position: relative;
+    left: 700px;
+    bottom: 215px;
+    display: inline-block;
+}
+.card4{
+    display: inline-block;
+    border: 2px solid rgb(248, 112, 112);;
+    border-radius: 10px;
+    width: 300px;
+    height: 280px;
+    padding: 10px;
+    position: relative;
+    left: 600px;
+    top: 65px;
+    box-shadow: 4px 4px 10px grey;
+}
+.p1{
+    font-size: 28px;
+    text-align: center;
+    color: rgb(248, 112, 112);
+}
+.hr3{
+    width: 235px;
+    position: relative;
+    left: 42px;
+    bottom: 15px;
+}
+.hr4{
+    background-color: rgb(248, 112, 112);;
+    border: 1px solid rgb(248, 112, 112);;
+    width: 150px;
+    position: relative;
+    top: -7px;
+    left: -10px;
+}
+.p2{
+    font-size: 22px;
+    color: rgb(248, 112, 112);;
+    font-weight: bold;
+    position: relative;
+    left: 80px;
+    bottom: 45px;
+}
+.check1{
+    font-size: 20px;
+    position: absolute;
+    bottom: 55px;
+    left: 65px;
+}
+#btnAdd1{
+    background-color: white;
+    color: rgb(248, 112, 112);;
+    font-size: 48px;
+    position: relative;
+    left: 530px;
+    bottom: -130px;
+    display: inline-block;
+}
+input.larger {
+    display: inline-block;
+    position: relative;
+    left: 10px;
+    transform: scale(1.5);
+    margin: 0px;
+  }
+@media screen and (min-width:360px) and (max-width:460px){
+    .h1{
+        position: absolute;
+    top: 48px;
+    left: 74px;
+    font-family: "adobe-clean", sans-serif;
+    font-weight: bold;
+    padding-top: 0px;
+    font-size: 32px;
+    }
+.hr1{
+    display: none;
+}
+.hr2{
+    display: none;
+}
+.h2{
+    display: none;
+}
+#btnBack{
+    background-color: white;
+    color: rgb(248, 112, 112);
+    font-size: 48px;
+    position: absolute;
+    left: 14px;
+    bottom: 648px;
+    display: inline-block;
+}
+.card4{
+    display: inline-block;
+    border: 2px solid rgb(248, 112, 112);
+    border-radius: 10px;
+    width: 266px;
+    height: 389px;
+    padding: 10px;
+    position: relative;
+    left: 26px;
+    top: 157px;
+    box-shadow: 2px 2px 7px grey;
+}
+.p1{
+    font-size: 28px;
+    text-align: center;
+    color: rgb(248, 112, 112);
+}
+.hr3{
+    width: 235px;
+    position: relative;
+    left: 25px;
+    bottom: 15px;
+}
+.hr4{
+    background-color: rgb(248, 112, 112);
+    border: 1px solid rgb(248, 112, 112);
+    width: 150px;
+    position: relative;
+    top: -7px;
+    left: -6px;
+}
+.p2{
+    font-size: 24px;
+    color: rgb(248, 112, 112);
+    font-weight: bold;
+    position: relative;
+    left: 58px;
+    bottom: 45px;
+}
+.check1{
+    font-size: 20px;
+    position: relative;
+    bottom: 55px;
+    left: 30px;
+}
+
+#btnAdd1{
+    background-color: white;
+    color: rgb(248, 112, 112);
+    font-size: 48px;
+    position: relative;
+    left: -47px;
+    bottom: -319px;
+    display: inline-block;
+}
+.textpend{
+    display:inline-block;
+    position: relative;
+    left: 13px;
+}
+}
